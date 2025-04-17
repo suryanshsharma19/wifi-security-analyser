@@ -40,7 +40,7 @@ A comprehensive WiFi security analysis tool with a modern GUI interface built us
 1.  **Clone the repository** (or download the source code):
     ```bash
     # If you use git:
-    # git clone <repository_url>
+    # git clone https://github.com/suryanshsharma19/wifi-security-analyser.git
     # cd wifi_security_analyser
     ```
 
