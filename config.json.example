@@ -1,0 +1,14 @@
+{
+    "scan_interval": 5,
+    "default_simulation_mode": true,
+    "log_level": "INFO",
+    "max_networks": 100,
+    "security_thresholds": {
+        "signal_strength": -70,
+        "channel_congestion": 0.7
+    },
+    "visualization": {
+        "update_interval": 1,
+        "chart_theme": "default"
+    }
+} 
