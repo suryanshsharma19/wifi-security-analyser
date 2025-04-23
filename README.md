@@ -106,9 +106,8 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 ## Support
 
 For support, please:
-1. Check the [documentation](https://github.com/yourusername/wifi-security-analyzer/wiki)
-2. Open an [issue](https://github.com/yourusername/wifi-security-analyzer/issues)
-3. Join our [Discord community](https://discord.gg/your-server)
+1. Check the [documentation](https://github.com/suryanshsharma19/wifi-security-analyzer/wiki)
+2. Open an [issue](https://github.com/suryanshsharma19/wifi-security-analyzer/issues)
 
 ## Roadmap
 
